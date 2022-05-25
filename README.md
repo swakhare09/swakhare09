@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @swakhare09
-- 👀 I’m interested in  web Development
-- 🌱 I’m currently learning Fullstack web Development
+- 👀 I’m interested in Development
 - 📫 How to reach me +91 7219772755
 
 <!---
